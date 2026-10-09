@@ -1,0 +1,36 @@
+# Vocabulary sources and limits
+
+The bundled seed set contains 40 research candidates. Definitions, fit descriptions, and distinctions are editorial paraphrases. Evidence labels say what was checked, while the caveats describe the limits. Newly forged words elsewhere in the app must remain labeled **coined**.
+
+## Supplied PDFs
+
+- `Language_in_Mutation_Rabelais_Joyce_Nietzsche.pdf`: 16 selected terms from the supplied secondary study, covering Rabelais, Joyce, and Nietzsche. Page numbers are the actual physical pages of this 35-page PDF. The excerpts were compared directly with page text. Historical attribution and interpretation come from this compilation, rather than an independent comparison against the original works. The study expressly distinguishes translator formations, inherited terms, literary procedures, and new illustrative sentences. No illustrative sentence is presented as an author quotation.
+- `Comparative_Ancient_Language_Lexicon.pdf`: 9 selected entries from the actual 603-page compilation. Citations refer to its physical pages, **not** to the original source-page numbers printed inside an entry. Old Turkic glosses, Old Avestan thought/utterance entries, and Old Norse translation equivalents are kept distinct. The Old Norse entries are marked translation candidates because that section gives equivalents, not contextual historical quotations. No unsourced etymology is added.
+
+Original references named by the ancient compilation are Samuel N. C. Lieu's *Old Turkish (Uygur) Word-list*; Heindio Uesugi and Adam Alvah Catt (eds.), *Old Avestan Dictionary* (2024, CC BY 4.0 according to the compilation); and Ross G. Arthur's *English–Old Norse Dictionary* (2002). The uploaded files themselves are retained in the private local PDF library rather than copied into the source repository. Only brief research excerpts are included in seeds.
+
+## Online dictionaries actually retrieved
+
+The following public files and source/license notices were successfully retrieved and inspected on **2026-10-09** through the environment's permitted GitHub raw-content host. Seed citations link to the real retrieved files. Full corpora are not committed into the application's source tree.
+
+| Source | Seed terms | License and scope |
+| --- | --- | --- |
+| [Webster's Unabridged Dictionary JSON mirror](https://raw.githubusercontent.com/matthewreagan/WebstersEnglishDictionary/master/dictionary.json), maintained by Matt Reagan | uncanny; palimpsest | The [README](https://raw.githubusercontent.com/matthewreagan/WebstersEnglishDictionary/master/README.md) identifies the August 2009 Project Gutenberg eBook #29765 edition and warns of parsing errors and omissions. The original text follows the Project Gutenberg license; the mirror's tool/example output is GPL-2.0. Seed definitions are paraphrases, with brief attributed excerpts. This is historical dictionary evidence, not a complete contemporary dictionary. |
+| [Make Me a Hanzi dictionary](https://raw.githubusercontent.com/skishore/makemeahanzi/master/dictionary.txt), by Shaunak Kishore, derived from Unihan and CJKlib | 异 (yì); 梦 (mèng) | [COPYING](https://raw.githubusercontent.com/skishore/makemeahanzi/master/COPYING): dictionary data LGPL-3.0-or-later. This file contains character-level learner glosses and pinyin; a character gloss does not automatically establish compound meaning or word grammar. Its separate stroke graphics use another license and are not bundled here. |
+| [Latin–English FreeDict Dictionary v0.1.2](https://raw.githubusercontent.com/freedict/fd-dictionaries/master/lat-eng/lat-eng.tei) | limen | TEI header: GPL-2.0-or-later. Retrieved entry gives “sill” and “threshold”. Interpretation as a conceptual threshold is editorial. |
+| [French–English FreeDict Dictionary v0.4.1](https://raw.githubusercontent.com/freedict/fd-dictionaries/master/fra-eng/fra-eng.tei), compiled/re-edited by Horst Eyermann, John Darrington, and FreeDict contributors | étrange | TEI header: GPL-2.0-or-later. Retrieved translations: “odd”, “peculiar”, “strange”. |
+| [English–Modern Greek XDXF/FreeDict Dictionary v0.1.1](https://raw.githubusercontent.com/freedict/fd-dictionaries/master/eng-ell/eng-ell.tei), converted by Piotr Bański | μεταμόρφωση (metamórfosi) | TEI header offers GPL-2.0-or-later or CC BY-SA 3.0. Retrieved English headwords “metamorphosis” and “transformation” both give μεταμόρφωση. The seed is explicitly a translation candidate, with source direction disclosed. |
+
+Dictionary licenses belong to their respective corpora; the application's code license does not relicense those corpora. Cached full dictionaries, if downloaded by the running application, retain their source URL, retrieval metadata, and applicable notices. This document records licenses stated by sources, rather than providing a legal opinion on derivative uses.
+
+The runtime additionally retrieves the real [German Hunspell spelling dictionary](https://raw.githubusercontent.com/wooorm/dictionaries/main/dictionaries/de/index.dic) from wooorm/dictionaries. Its [license notice](https://raw.githubusercontent.com/wooorm/dictionaries/main/dictionaries/de/license) records GPL-2.0/GPL-3.0 terms. The inspected file contains 48,376 base spellings and morphological flags, **not definitions**. Runtime candidates explicitly state that spelling is attested while meaning is absent; this evidence does not authenticate an editorial gloss. The original dictionary and affix data remain in the ignored local cache with license notices. This does not change the 40-entry curated seed set.
+
+## Unverified leads and game inspiration
+
+Eight seed entries deliberately remain **unverified**: Persian خیال, Russian остранение, Azerbaijani xəyal, and concepts inspired by Minecraft (*sculk*), Slime Rancher (*Quantum Slime*), Subnautica (*Ghost Leviathan*), The Eternal Cylinder (*Trebhum*), and Clay Jam (*Bully Beast*). These are editorial research leads, not retrieved dictionary definitions or verified accounts of game mechanics. No fabricated quotations, access dates implying success, or etymologies accompany them. Game names identify the inspiration; they are not attributed as natural-language historical formations. Generated derivatives remain coinages.
+
+Direct requests to `en.wiktionary.org`, `api.dictionaryapi.dev`, `minecraft.wiki`, `slimerancher.fandom.com`, `subnautica.fandom.com`, `www.eternalcylinder.com`, and `en.wikipedia.org` were refused by the environment's network proxy (CONNECT 403). Failed requests are reported as unavailable and are not counted as successful research. The reachable dictionary mirrors provide real evidence without treating those failed requests as attestation. Other language-pair mirror guesses returned 404 and supplied no evidence. More source access can be configured separately.
+
+## Source-quality checks
+
+All 25 PDF excerpts were checked against the exact cited page after whitespace normalization. All seven online dictionary seeds were matched to inspected JSON/JSONL/TEI entries. The five FreeDict/Old Norse entries retain translation caveats. The eight unverified entries are visibly distinct from those checked sources. Scores and interpretive explanations in the app are heuristic comparisons, not linguistic facts or proof of equivalence.

@@ -1,0 +1,1101 @@
+[
+  {
+    "id": "pdf-pantagruelism",
+    "term": "Pantagruelism",
+    "language": "French / English literary translation",
+    "definition": "A generous, cheerful composure that outlasts reversals of fortune.",
+    "tone": "comic, affirmative",
+    "evidence_status": "attested",
+    "source_type": "pdf",
+    "source": {
+      "title": "Language in Mutation",
+      "filename": "Language_in_Mutation_Rabelais_Joyce_Nietzsche.pdf",
+      "page": 6,
+      "excerpt": "Rabelais's cheerfulness and generous composure despite changing fortune."
+    },
+    "tags": [
+      "Rabelais",
+      "cheerfulness",
+      "generosity",
+      "fortune",
+      "composure",
+      "appetite",
+      "satire"
+    ],
+    "captures": "Makes a fictional name into a disposition toward life.",
+    "misses": "Does not imply naive optimism or reckless indulgence.",
+    "caveat": "This term and interpretation are attested in the supplied secondary compilation; the original work has not been independently checked."
+  },
+  {
+    "id": "pdf-picrochole",
+    "term": "Picrochole",
+    "language": "French literary name",
+    "definition": "Rabelais’s angry, warlike king, used here as a name for a temperament that becomes politics.",
+    "tone": "satirical, derogatory",
+    "evidence_status": "attested",
+    "source_type": "pdf",
+    "source": {
+      "title": "Language in Mutation",
+      "filename": "Language_in_Mutation_Rabelais_Joyce_Nietzsche.pdf",
+      "page": 6,
+      "excerpt": "An irritable, belligerent king whose very name diagnoses his temperament."
+    },
+    "tags": [
+      "Rabelais",
+      "anger",
+      "power",
+      "ruler",
+      "war",
+      "bitter",
+      "temperament",
+      "authority"
+    ],
+    "captures": "Connects personal irritability with belligerent rule.",
+    "misses": "Does not describe every kind of authoritarian power.",
+    "caveat": "This term and interpretation are attested in the supplied secondary compilation; the original work has not been independently checked."
+  },
+  {
+    "id": "pdf-panurge",
+    "term": "Panurge",
+    "language": "French literary name",
+    "definition": "A resourceful trickster whose inventive skill lacks a dependable moral purpose.",
+    "tone": "comic, ambivalent",
+    "evidence_status": "attested",
+    "source_type": "pdf",
+    "source": {
+      "title": "Language in Mutation",
+      "filename": "Language_in_Mutation_Rabelais_Joyce_Nietzsche.pdf",
+      "page": 7,
+      "excerpt": "A resourceful, unstable operator: inventive skill without an equally stable moral purpose."
+    },
+    "tags": [
+      "Rabelais",
+      "cunning",
+      "versatile",
+      "resourceful",
+      "intelligence",
+      "trickster",
+      "exploitation",
+      "ingenuity",
+      "morality"
+    ],
+    "captures": "Names versatility and improvisation mixed with unreliable motives.",
+    "misses": "Does not necessarily imply office, wealth, or enduring domination.",
+    "caveat": "The guide describes the Greek connection as likely, not a proven unique etymology."
+  },
+  {
+    "id": "pdf-bridlegoose",
+    "term": "Bridlegoose",
+    "language": "English literary translation",
+    "definition": "A comic judicial name associated with deciding lawsuits by throwing dice.",
+    "tone": "comic, satirical",
+    "evidence_status": "attested",
+    "source_type": "pdf",
+    "source": {
+      "title": "Language in Mutation",
+      "filename": "Language_in_Mutation_Rabelais_Joyce_Nietzsche.pdf",
+      "page": 10,
+      "excerpt": "A jurist who decides legal disputes by casting dice."
+    },
+    "tags": [
+      "Rabelais",
+      "judge",
+      "institution",
+      "bureaucracy",
+      "arbitrary",
+      "power",
+      "procedure",
+      "chance"
+    ],
+    "captures": "Estranges institutional prestige by revealing arbitrary procedure.",
+    "misses": "Does not name corruption motivated by profit.",
+    "caveat": "This is the English translator’s expressive name, not evidence of a French coinage by Rabelais."
+  },
+  {
+    "id": "pdf-riverrun",
+    "term": "riverrun",
+    "language": "English literary formation",
+    "definition": "A flow in which river, motion, and return fuse into a single word.",
+    "tone": "poetic, fluid",
+    "evidence_status": "attested",
+    "source_type": "pdf",
+    "source": {
+      "title": "Language in Mutation",
+      "filename": "Language_in_Mutation_Rabelais_Joyce_Nietzsche.pdf",
+      "page": 16,
+      "excerpt": "The first word of Finnegans Wake, grammatically continuous with its unfinished last line."
+    },
+    "tags": [
+      "Joyce",
+      "river",
+      "flow",
+      "cycle",
+      "recurrence",
+      "return",
+      "memory",
+      "transformation"
+    ],
+    "captures": "Compresses an object and its ongoing motion, with a cyclic textual function.",
+    "misses": "Its use as a general metaphor here is interpretation, not a dictionary sense.",
+    "caveat": "This term and interpretation are attested in the supplied secondary compilation; the original work has not been independently checked."
+  },
+  {
+    "id": "pdf-laughtears",
+    "term": "laughtears",
+    "language": "English literary formation",
+    "definition": "Laughter and tears occupying the same emotional event.",
+    "tone": "comic, poignant",
+    "evidence_status": "attested",
+    "source_type": "pdf",
+    "source": {
+      "title": "Language in Mutation",
+      "filename": "Language_in_Mutation_Rabelais_Joyce_Nietzsche.pdf",
+      "page": 17,
+      "excerpt": "A moment of simultaneous mirth, pain, pity or involuntary emotional overflow."
+    },
+    "tags": [
+      "Joyce",
+      "laughter",
+      "tears",
+      "contradiction",
+      "emotion",
+      "grief",
+      "joy",
+      "portmanteau"
+    ],
+    "captures": "Keeps conflicting feelings together without resolving them.",
+    "misses": "Does not explain why the feelings arise.",
+    "caveat": "This term and interpretation are attested in the supplied secondary compilation; the original work has not been independently checked."
+  },
+  {
+    "id": "pdf-chaosmos",
+    "term": "chaosmos",
+    "language": "English literary formation",
+    "definition": "A world that sustains order and disorder at once.",
+    "tone": "surreal, philosophical",
+    "evidence_status": "attested",
+    "source_type": "pdf",
+    "source": {
+      "title": "Language in Mutation",
+      "filename": "Language_in_Mutation_Rabelais_Joyce_Nietzsche.pdf",
+      "page": 18,
+      "excerpt": "A world that is order and disorder at the same time."
+    },
+    "tags": [
+      "Joyce",
+      "chaos",
+      "cosmos",
+      "order",
+      "disorder",
+      "contradiction",
+      "world",
+      "system",
+      "portmanteau"
+    ],
+    "captures": "Makes a binary opposition into one unstable totality.",
+    "misses": "Does not establish a scientific theory of complex systems.",
+    "caveat": "This term and interpretation are attested in the supplied secondary compilation; the original work has not been independently checked."
+  },
+  {
+    "id": "pdf-misheard-metempsychosis",
+    "term": "met him pike hoses",
+    "language": "English phonetic resegmentation",
+    "definition": "A mishearing that turns a learned word about souls into familiar, absurd spoken pieces.",
+    "tone": "comic, estranging",
+    "evidence_status": "attested",
+    "source_type": "pdf",
+    "source": {
+      "title": "Language in Mutation",
+      "filename": "Language_in_Mutation_Rabelais_Joyce_Nietzsche.pdf",
+      "page": 15,
+      "excerpt": "A domestic mishearing of a Greek philosophical term."
+    },
+    "tags": [
+      "Joyce",
+      "metempsychosis",
+      "mishearing",
+      "soul",
+      "sound",
+      "familiar",
+      "strange",
+      "resegmentation"
+    ],
+    "captures": "Shows how a listener can remake word boundaries without a new sound stream.",
+    "misses": "The resulting pieces do not retain the philosophical definition.",
+    "caveat": "This term and interpretation are attested in the supplied secondary compilation; the original work has not been independently checked."
+  },
+  {
+    "id": "pdf-snotgreen",
+    "term": "snotgreen",
+    "language": "English literary compound",
+    "definition": "A sea color made strange through an intrusive bodily comparison.",
+    "tone": "abrasive, grotesque",
+    "evidence_status": "attested",
+    "source_type": "pdf",
+    "source": {
+      "title": "Language in Mutation",
+      "filename": "Language_in_Mutation_Rabelais_Joyce_Nietzsche.pdf",
+      "page": 14,
+      "excerpt": "A deliberately unideal color for the Irish sea, rejecting sentimental poetic diction."
+    },
+    "tags": [
+      "Joyce",
+      "sea",
+      "color",
+      "body",
+      "grotesque",
+      "estrangement",
+      "ordinary",
+      "compound"
+    ],
+    "captures": "Deflates a sublime landscape through bodily material.",
+    "misses": "Names a rhetorical color rather than a stable measured hue.",
+    "caveat": "This term and interpretation are attested in the supplied secondary compilation; the original work has not been independently checked."
+  },
+  {
+    "id": "pdf-collideorscape",
+    "term": "collideorscape",
+    "language": "English literary formation",
+    "definition": "A shifting visual scene in which seeing and collision become one device.",
+    "tone": "surreal, kinetic",
+    "evidence_status": "attested",
+    "source_type": "pdf",
+    "source": {
+      "title": "Language in Mutation",
+      "filename": "Language_in_Mutation_Rabelais_Joyce_Nietzsche.pdf",
+      "page": 19,
+      "excerpt": "A scene or image in which things strike one another and appear through a shifting lens."
+    },
+    "tags": [
+      "Joyce",
+      "collision",
+      "kaleidoscope",
+      "landscape",
+      "perception",
+      "change",
+      "view",
+      "portmanteau"
+    ],
+    "captures": "Joins impact with the instability of perception.",
+    "misses": "The guide marks the compound analysis as likely and leaves other echoes open.",
+    "caveat": "This term and interpretation are attested in the supplied secondary compilation; the original work has not been independently checked."
+  },
+  {
+    "id": "pdf-ressentiment",
+    "term": "ressentiment",
+    "language": "French / philosophical usage",
+    "definition": "A reactive pattern in which obstructed hostility reshapes moral judgments.",
+    "tone": "critical, philosophical",
+    "evidence_status": "specialized",
+    "source_type": "pdf",
+    "source": {
+      "title": "Language in Mutation",
+      "filename": "Language_in_Mutation_Rabelais_Joyce_Nietzsche.pdf",
+      "page": 25,
+      "excerpt": "A reactive pattern in which blocked hostility becomes moral judgment."
+    },
+    "tags": [
+      "Nietzsche",
+      "resentment",
+      "power",
+      "blocked",
+      "hostility",
+      "morality",
+      "judgment",
+      "reactive",
+      "envy"
+    ],
+    "captures": "Connects an affective reaction to the creation of values.",
+    "misses": "Is narrower than ordinary disappointment or momentary resentment.",
+    "caveat": "French word revalued in Nietzsche’s philosophy; the supplied guide explicitly says he did not coin it."
+  },
+  {
+    "id": "pdf-spirit-gravity",
+    "term": "spirit of gravity",
+    "language": "English philosophical translation",
+    "definition": "A figure for the solemn heaviness that makes affirmation and intellectual movement difficult.",
+    "tone": "poetic, polemical",
+    "evidence_status": "specialized",
+    "source_type": "pdf",
+    "source": {
+      "title": "Language in Mutation",
+      "filename": "Language_in_Mutation_Rabelais_Joyce_Nietzsche.pdf",
+      "page": 22,
+      "excerpt": "The force of pious seriousness, burden and incapacity to affirm or dance."
+    },
+    "tags": [
+      "Nietzsche",
+      "gravity",
+      "heaviness",
+      "burden",
+      "institution",
+      "solemn",
+      "seriousness",
+      "affirmation"
+    ],
+    "captures": "Turns a physical downward force into a moral and intellectual antagonist.",
+    "misses": "Does not assert that seriousness or duty is always oppressive.",
+    "caveat": "This term and interpretation are attested in the supplied secondary compilation; the original work has not been independently checked."
+  },
+  {
+    "id": "pdf-will-power",
+    "term": "will to power",
+    "language": "English / German philosophical usage",
+    "definition": "A lens on life through striving, expansion, command, and resistance.",
+    "tone": "philosophical, diagnostic",
+    "evidence_status": "specialized",
+    "source_type": "pdf",
+    "source": {
+      "title": "Language in Mutation",
+      "filename": "Language_in_Mutation_Rabelais_Joyce_Nietzsche.pdf",
+      "page": 22,
+      "excerpt": "The interpretation of living activity through striving, expansion, command and resistance, not merely formal political office."
+    },
+    "tags": [
+      "Nietzsche",
+      "power",
+      "agency",
+      "capacity",
+      "striving",
+      "command",
+      "resistance",
+      "life",
+      "authority"
+    ],
+    "captures": "Includes capacity and contest beyond formal political power.",
+    "misses": "Does not simply mean a selfish desire to hold office.",
+    "caveat": "This term and interpretation are attested in the supplied secondary compilation; the original work has not been independently checked."
+  },
+  {
+    "id": "pdf-amor-fati",
+    "term": "amor fati",
+    "language": "Latin / philosophical usage",
+    "definition": "An affirmative love of one’s fate, extending beyond endurance or resignation.",
+    "tone": "affirmative, philosophical",
+    "evidence_status": "specialized",
+    "source_type": "pdf",
+    "source": {
+      "title": "Language in Mutation",
+      "filename": "Language_in_Mutation_Rabelais_Joyce_Nietzsche.pdf",
+      "page": 23,
+      "excerpt": "Love of one's fate, beyond resignation or stoic endurance."
+    },
+    "tags": [
+      "Nietzsche",
+      "fate",
+      "love",
+      "affirmation",
+      "fortune",
+      "acceptance",
+      "life",
+      "past"
+    ],
+    "captures": "Distinguishes affirmation of a life from merely putting up with it.",
+    "misses": "Does not mean that preventable harm should be welcomed.",
+    "caveat": "This term and interpretation are attested in the supplied secondary compilation; the original work has not been independently checked."
+  },
+  {
+    "id": "pdf-schuld",
+    "term": "Schuld",
+    "language": "German / philosophical usage",
+    "definition": "The German word’s guilt and debt senses are used as a bridge between moral and economic obligation.",
+    "tone": "diagnostic, philosophical",
+    "evidence_status": "specialized",
+    "source_type": "pdf",
+    "source": {
+      "title": "Language in Mutation",
+      "filename": "Language_in_Mutation_Rabelais_Joyce_Nietzsche.pdf",
+      "page": 25,
+      "excerpt": "German Schuld can denote guilt or debt; Schulden is its ordinary debt plural."
+    },
+    "tags": [
+      "Nietzsche",
+      "guilt",
+      "debt",
+      "creditor",
+      "obligation",
+      "economy",
+      "morality",
+      "extraction"
+    ],
+    "captures": "Makes the overlap of moral and economic responsibility available for comparison.",
+    "misses": "A shared word does not prove Nietzsche’s historical account.",
+    "caveat": "Sense overlap is reported in the supplied secondary guide; no independent modern German dictionary check is claimed."
+  },
+  {
+    "id": "pdf-eternal-recurrence",
+    "term": "eternal recurrence",
+    "language": "English philosophical translation",
+    "definition": "A thought experiment in which repeating one’s life in every detail tests affirmation.",
+    "tone": "existential, philosophical",
+    "evidence_status": "specialized",
+    "source_type": "pdf",
+    "source": {
+      "title": "Language in Mutation",
+      "filename": "Language_in_Mutation_Rabelais_Joyce_Nietzsche.pdf",
+      "page": 23,
+      "excerpt": "The possibility of life repeating in every detail, used as a severe test of affirmation."
+    },
+    "tags": [
+      "Nietzsche",
+      "cycle",
+      "return",
+      "recurrence",
+      "affirmation",
+      "time",
+      "life",
+      "choice"
+    ],
+    "captures": "Turns recurrence into a question about how to live.",
+    "misses": "Does not establish an empirical cosmological prediction.",
+    "caveat": "This term and interpretation are attested in the supplied secondary compilation; the original work has not been independently checked."
+  },
+  {
+    "id": "pdf-old-turkic-ac",
+    "term": "ač",
+    "language": "Old Turkic",
+    "definition": "A physical hunger that the lexicon also extends metaphorically to covetousness.",
+    "tone": "historical, evaluative",
+    "evidence_status": "attested",
+    "source_type": "pdf",
+    "source": {
+      "title": "Comparative Ancient Language Lexicon",
+      "filename": "Comparative_Ancient_Language_Lexicon.pdf",
+      "page": 3,
+      "excerpt": "Originally ‘hungry’ in a physical sense, hence metaph. ‘covetous’ and the like"
+    },
+    "tags": [
+      "hunger",
+      "appetite",
+      "desire",
+      "covetous",
+      "greed",
+      "body",
+      "metaphor"
+    ],
+    "captures": "Shows appetite turning into a moral description.",
+    "misses": "Does not alone imply exploitation or power.",
+    "caveat": "Historical dictionary gloss in the supplied compilation; no ancient usage sentence is provided for this entry."
+  },
+  {
+    "id": "pdf-old-turkic-agir",
+    "term": "agır",
+    "language": "Old Turkic",
+    "definition": "Heaviness with contrasting figurative senses: weighty distinction and grievous burden.",
+    "tone": "ambivalent, historical",
+    "evidence_status": "attested",
+    "source_type": "pdf",
+    "source": {
+      "title": "Comparative Ancient Language Lexicon",
+      "filename": "Comparative_Ancient_Language_Lexicon.pdf",
+      "page": 7,
+      "excerpt": "basically ‘heavy’ in the physical sense; hence metaph. in two contrary meanings"
+    },
+    "tags": [
+      "heavy",
+      "weight",
+      "burden",
+      "prestige",
+      "valuable",
+      "sincere",
+      "pain",
+      "contradiction"
+    ],
+    "captures": "Lets physical weight signify both importance and affliction.",
+    "misses": "Context is needed to distinguish the positive and negative senses.",
+    "caveat": "The gloss continues with separate positive and pejorative senses; no etymology is added here."
+  },
+  {
+    "id": "pdf-old-turkic-adir",
+    "term": "adır-",
+    "language": "Old Turkic",
+    "definition": "To separate, then by extension to distinguish or differentiate things.",
+    "tone": "neutral, analytical",
+    "evidence_status": "attested",
+    "source_type": "pdf",
+    "source": {
+      "title": "Comparative Ancient Language Lexicon",
+      "filename": "Comparative_Ancient_Language_Lexicon.pdf",
+      "page": 5,
+      "excerpt": "‘to separate’, hence ‘to distinguish (between things), to differentiate’"
+    },
+    "tags": [
+      "separate",
+      "distinction",
+      "difference",
+      "analysis",
+      "boundary",
+      "perception"
+    ],
+    "captures": "Shows a spatial action becoming an act of thought.",
+    "misses": "Does not by itself designate creativity or criticism.",
+    "caveat": "This is the dictionary’s lemma form, with a hyphen indicating a verb stem."
+  },
+  {
+    "id": "pdf-old-turkic-askancula",
+    "term": "askančula-",
+    "language": "Old Turkic",
+    "definition": "To deceive, with a cited gloss specifying decorative but useless or irresponsible words.",
+    "tone": "critical, rhetorical",
+    "evidence_status": "attested",
+    "source_type": "pdf",
+    "source": {
+      "title": "Comparative Ancient Language Lexicon",
+      "filename": "Comparative_Ancient_Language_Lexicon.pdf",
+      "page": 19,
+      "excerpt": "‘to deceive with decorative but useless or irresponsible words’"
+    },
+    "tags": [
+      "deception",
+      "words",
+      "ornament",
+      "empty",
+      "rhetoric",
+      "bureaucracy",
+      "irresponsible",
+      "language",
+      "power"
+    ],
+    "captures": "A useful lead for eloquence detached from responsibility or practical value.",
+    "misses": "The narrow wording comes from one cited gloss rather than every listed equivalent.",
+    "caveat": "The supplied compilation cites COUL 208b for the narrow gloss; its primary source has not been independently consulted."
+  },
+  {
+    "id": "pdf-old-turkic-akig",
+    "term": "akıg",
+    "language": "Old Turkic",
+    "definition": "Flow or flowing liquid, extended in this gloss to restlessness and impermanence.",
+    "tone": "fluid, historical",
+    "evidence_status": "attested",
+    "source_type": "pdf",
+    "source": {
+      "title": "Comparative Ancient Language Lexicon",
+      "filename": "Comparative_Ancient_Language_Lexicon.pdf",
+      "page": 9,
+      "excerpt": "‘flow, flowing liquid; hence restlessness, impermanence’"
+    },
+    "tags": [
+      "flow",
+      "change",
+      "liquid",
+      "restless",
+      "impermanence",
+      "body",
+      "mutation"
+    ],
+    "captures": "Links a material process with an unstable condition.",
+    "misses": "Does not make every technical Buddhist usage interchangeable with ordinary flow.",
+    "caveat": "The compilation records a Sanskrit translation relation, but this candidate does not claim exact equivalence."
+  },
+  {
+    "id": "pdf-avestan-manah",
+    "term": "manah-",
+    "language": "Old Avestan",
+    "definition": "Thought or thinking, situated in the lexicon’s conceptual relation between thought, word, and action.",
+    "tone": "historical, ethical",
+    "evidence_status": "historically_attested",
+    "source_type": "pdf",
+    "source": {
+      "title": "Comparative Ancient Language Lexicon",
+      "filename": "Comparative_Ancient_Language_Lexicon.pdf",
+      "page": 291,
+      "excerpt": "manah- (n.) ‘thought, thinking’"
+    },
+    "tags": [
+      "thought",
+      "thinking",
+      "word",
+      "action",
+      "mind",
+      "ethics",
+      "concept"
+    ],
+    "captures": "Connects thought with the expression and enactment of thought.",
+    "misses": "Not a universal substitute for every English use of mind.",
+    "caveat": "The hyphen marks the dictionary stem. This is a compilation-level citation; the source’s original page number is different.",
+    "transliteration": "manah-"
+  },
+  {
+    "id": "pdf-avestan-manthra",
+    "term": "mąϑra-",
+    "language": "Old Avestan",
+    "definition": "An impactful utterance or expressive formula, interpreted in the dictionary as capable of making truth effective.",
+    "tone": "ritual, historical",
+    "evidence_status": "historically_attested",
+    "source_type": "pdf",
+    "source": {
+      "title": "Comparative Ancient Language Lexicon",
+      "filename": "Comparative_Ancient_Language_Lexicon.pdf",
+      "page": 299,
+      "excerpt": "mąϑra- (m.) ‘mantra’ as in impactful word(s) or expressive formula"
+    },
+    "tags": [
+      "word",
+      "formula",
+      "utterance",
+      "ritual",
+      "truth",
+      "speech",
+      "magic",
+      "language",
+      "power"
+    ],
+    "captures": "Makes speech a consequential action rather than a passive label.",
+    "misses": "The dictionary’s interpretive account is not proof of supernatural efficacy.",
+    "caveat": "Editorial interpretation is preserved as interpretation; the word is not reduced to the modern English wellness sense of mantra.",
+    "transliteration": "mąϑra-"
+  },
+  {
+    "id": "pdf-norse-undr",
+    "term": "undr",
+    "language": "Old Norse",
+    "definition": "The supplied inverse translation list pairs this form with “marvel”.",
+    "tone": "wonder, historical",
+    "evidence_status": "translation_candidate",
+    "source_type": "pdf",
+    "source": {
+      "title": "Comparative Ancient Language Lexicon",
+      "filename": "Comparative_Ancient_Language_Lexicon.pdf",
+      "page": 597,
+      "excerpt": "undr — marvel"
+    },
+    "tags": [
+      "wonder",
+      "marvel",
+      "strange",
+      "astonishment",
+      "uncanny"
+    ],
+    "captures": "Offers a translation lead for something that provokes wonder.",
+    "misses": "The source provides an equivalent, not a full usage history or context.",
+    "caveat": "The compilation’s Old Norse section is a translation-pair index; native usage and grammar require separate verification."
+  },
+  {
+    "id": "pdf-norse-seidr",
+    "term": "seiðr",
+    "language": "Old Norse",
+    "definition": "The supplied inverse translation list gives enchantment and spell as English equivalents.",
+    "tone": "ritual, historical",
+    "evidence_status": "translation_candidate",
+    "source_type": "pdf",
+    "source": {
+      "title": "Comparative Ancient Language Lexicon",
+      "filename": "Comparative_Ancient_Language_Lexicon.pdf",
+      "page": 589,
+      "excerpt": "seiðr — enchantment, spell"
+    },
+    "tags": [
+      "spell",
+      "enchantment",
+      "magic",
+      "ritual",
+      "transformation",
+      "strange"
+    ],
+    "captures": "Offers a lead for a culturally specific form of enchantment.",
+    "misses": "Modern fantasy magic is not automatically equivalent to historical Norse practice.",
+    "caveat": "The translation-pair source does not attest a historical example or establish cultural details.",
+    "transliteration": "seiðr"
+  },
+  {
+    "id": "dict-uncanny",
+    "term": "uncanny",
+    "language": "English",
+    "definition": "Strange, unsettling, or ghostly in the retrieved historical dictionary gloss.",
+    "tone": "uneasy, spectral",
+    "evidence_status": "attested",
+    "source_type": "dictionary",
+    "source": {
+      "title": "Webster’s Unabridged Dictionary, Project Gutenberg-derived JSON mirror",
+      "url": "https://raw.githubusercontent.com/matthewreagan/WebstersEnglishDictionary/master/dictionary.json",
+      "excerpt": "Not canny; unsafe; strange; weird; ghostly.",
+      "accessed_at": "2026-10-09",
+      "license": "GPL-2.0 for mirror JSON; original text uses Project Gutenberg license"
+    },
+    "tags": [
+      "familiar",
+      "strange",
+      "estrangement",
+      "ghost",
+      "unsettling",
+      "ordinary",
+      "fear"
+    ],
+    "captures": "Offers a compact word for troubling strangeness.",
+    "misses": "Does not by itself establish Freud’s specialized account of the uncanny.",
+    "caveat": "This is an old dictionary edition; the mirror warns of parsing errors and omissions. Contemporary and philosophical senses need further sources."
+  },
+  {
+    "id": "dict-palimpsest",
+    "term": "palimpsest",
+    "language": "English",
+    "definition": "A writing surface used again after its earlier writing has been erased.",
+    "tone": "scholarly, layered",
+    "evidence_status": "attested",
+    "source_type": "dictionary",
+    "source": {
+      "title": "Webster’s Unabridged Dictionary, Project Gutenberg-derived JSON mirror",
+      "url": "https://raw.githubusercontent.com/matthewreagan/WebstersEnglishDictionary/master/dictionary.json",
+      "excerpt": "A parchment which has been written upon twice, the first writing having been erased to make place for the second.",
+      "accessed_at": "2026-10-09",
+      "license": "GPL-2.0 for mirror JSON; original text uses Project Gutenberg license"
+    },
+    "tags": [
+      "memory",
+      "layer",
+      "erase",
+      "rewrite",
+      "history",
+      "language",
+      "trace",
+      "transformation"
+    ],
+    "captures": "Supports an interpretive metaphor for layered words or identities.",
+    "misses": "The retrieved dictionary attests the material object; metaphorical use here is the application’s interpretation.",
+    "caveat": "Definitions are paraphrased. The old mirror is a real retrieved source, but is not a contemporary comprehensive dictionary."
+  },
+  {
+    "id": "dict-chinese-yi",
+    "term": "异",
+    "language": "Chinese (Mandarin)",
+    "definition": "Different, strange, or unusual; the character’s gloss also includes foreignness and surprise.",
+    "tone": "estranging, descriptive",
+    "evidence_status": "attested",
+    "source_type": "dictionary",
+    "source": {
+      "title": "Make Me a Hanzi character dictionary, derived from Unihan and CJKlib",
+      "url": "https://raw.githubusercontent.com/skishore/makemeahanzi/master/dictionary.txt",
+      "excerpt": "different, strange, unusual; foreign; surprising",
+      "accessed_at": "2026-10-09",
+      "license": "LGPL-3.0-or-later"
+    },
+    "tags": [
+      "different",
+      "strange",
+      "foreign",
+      "unusual",
+      "surprise",
+      "difference",
+      "estrangement"
+    ],
+    "captures": "Provides a verified character-level component for experiments around difference and strangeness.",
+    "misses": "A character gloss is not the meaning of every compound containing it.",
+    "caveat": "Character-level learner data; do not treat this as a definition of 异化 or other multi-character words. Native-speaker review is needed for invented hybrids.",
+    "transliteration": "yì"
+  },
+  {
+    "id": "dict-chinese-meng",
+    "term": "梦",
+    "language": "Chinese (Mandarin)",
+    "definition": "Dream, as a character-level dictionary gloss.",
+    "tone": "dreamlike, neutral",
+    "evidence_status": "attested",
+    "source_type": "dictionary",
+    "source": {
+      "title": "Make Me a Hanzi character dictionary, derived from Unihan and CJKlib",
+      "url": "https://raw.githubusercontent.com/skishore/makemeahanzi/master/dictionary.txt",
+      "excerpt": "dream",
+      "accessed_at": "2026-10-09",
+      "license": "LGPL-3.0-or-later"
+    },
+    "tags": [
+      "dream",
+      "sleep",
+      "imagination",
+      "surreal",
+      "night",
+      "vision"
+    ],
+    "captures": "Gives a verified character component for dream-related formations.",
+    "misses": "The one-word gloss does not establish grammar, compound behavior, or all senses.",
+    "caveat": "Character-level learner data; invented Chinese compounds require native-speaker review.",
+    "transliteration": "mèng"
+  },
+  {
+    "id": "dict-latin-limen",
+    "term": "limen",
+    "language": "Latin",
+    "definition": "A sill or threshold, according to the retrieved Latin-to-English translation entry.",
+    "tone": "spatial, neutral",
+    "evidence_status": "translation_candidate",
+    "source_type": "dictionary",
+    "source": {
+      "title": "Latin-English FreeDict Dictionary v0.1.2",
+      "url": "https://raw.githubusercontent.com/freedict/fd-dictionaries/master/lat-eng/lat-eng.tei",
+      "excerpt": "threshold",
+      "accessed_at": "2026-10-09",
+      "license": "GPL-2.0-or-later"
+    },
+    "tags": [
+      "threshold",
+      "boundary",
+      "door",
+      "transition",
+      "between",
+      "liminal"
+    ],
+    "captures": "Provides a concrete spatial base for threshold metaphors.",
+    "misses": "Does not independently attest the modern theoretical concept of liminality.",
+    "caveat": "The source attests the headword limen with the separate English equivalents sill and threshold; the excerpt is one exact translation gloss."
+  },
+  {
+    "id": "dict-french-etrange",
+    "term": "étrange",
+    "language": "French",
+    "definition": "Odd, peculiar, or strange in the retrieved French-English translation entry.",
+    "tone": "estranging, descriptive",
+    "evidence_status": "translation_candidate",
+    "source_type": "dictionary",
+    "source": {
+      "title": "French-English FreeDict Dictionary v0.4.1",
+      "url": "https://raw.githubusercontent.com/freedict/fd-dictionaries/master/fra-eng/fra-eng.tei",
+      "excerpt": "odd",
+      "accessed_at": "2026-10-09",
+      "license": "GPL-2.0-or-later"
+    },
+    "tags": [
+      "odd",
+      "peculiar",
+      "strange",
+      "foreign",
+      "ordinary",
+      "estrangement"
+    ],
+    "captures": "Offers a verified everyday adjective for making the familiar strange.",
+    "misses": "Does not express a whole theory or process of defamiliarization.",
+    "caveat": "The source attests the adjective étrange with the separate English equivalents odd, peculiar, and strange. The excerpt is an exact translation gloss; this is not a usage corpus."
+  },
+  {
+    "id": "dict-greek-metamorfosi",
+    "term": "μεταμόρφωση",
+    "language": "Modern Greek",
+    "definition": "A translation candidate for English “metamorphosis” or “transformation” in the retrieved English-Greek dictionary.",
+    "tone": "transformative, neutral",
+    "evidence_status": "translation_candidate",
+    "source_type": "dictionary",
+    "source": {
+      "title": "English–Modern Greek XDXF/FreeDict Dictionary v0.1.1",
+      "url": "https://raw.githubusercontent.com/freedict/fd-dictionaries/master/eng-ell/eng-ell.tei",
+      "excerpt": "μεταμόρφωση",
+      "accessed_at": "2026-10-09",
+      "license": "GPL-2.0-or-later or CC-BY-SA-3.0, according to dictionary header"
+    },
+    "tags": [
+      "metamorphosis",
+      "mutation",
+      "change",
+      "form",
+      "transformation",
+      "body"
+    ],
+    "captures": "Connects an ordinary transformation word across languages.",
+    "misses": "The source direction is English to Greek; usage, register, and grammatical context need checking.",
+    "caveat": "The excerpt is the exact Greek translation under the English headword metamorphosis; the source also gives it under transformation. This is a translation entry, not a usage sentence.",
+    "transliteration": "metamórfosi"
+  },
+  {
+    "id": "lead-persian-khiyal",
+    "term": "خیال",
+    "language": "Persian",
+    "definition": "An editorial lead around imagination, thought, and mental imagery; verify the precise sense in context.",
+    "tone": "imaginative",
+    "evidence_status": "unverified",
+    "source_type": "dictionary",
+    "source": {
+      "title": "Persian dictionary lead — verification pending"
+    },
+    "tags": [
+      "imagination",
+      "thought",
+      "image",
+      "dream",
+      "mind",
+      "vision"
+    ],
+    "captures": "Could distinguish inward imagery from an external object.",
+    "misses": "Does not supply a verified one-to-one equivalent for imagination.",
+    "caveat": "Editorial language lead: direct Wiktionary retrieval was blocked by the cloud network proxy, so this sense has not been verified against an accessible dictionary. No source quotation or etymology is claimed.",
+    "transliteration": "khiyāl"
+  },
+  {
+    "id": "lead-russian-ostranenie",
+    "term": "остранение",
+    "language": "Russian",
+    "definition": "An editorial lead for the literary idea of making familiar perception strange.",
+    "tone": "critical, estranging",
+    "evidence_status": "unverified",
+    "source_type": "dictionary",
+    "source": {
+      "title": "Russian literary terminology lead — verification pending"
+    },
+    "tags": [
+      "defamiliarization",
+      "estrangement",
+      "familiar",
+      "ordinary",
+      "strange",
+      "perception",
+      "literature"
+    ],
+    "captures": "Points toward estrangement as a technique, rather than a synonym for weirdness.",
+    "misses": "Historical authorship, exact definition, and spelling distinctions still need a retrieved source.",
+    "caveat": "Editorial language lead: direct Wiktionary retrieval was blocked by the cloud network proxy, so this sense has not been verified against an accessible dictionary. No source quotation or etymology is claimed.",
+    "transliteration": "ostranenie"
+  },
+  {
+    "id": "lead-azerbaijani-xeyal",
+    "term": "xəyal",
+    "language": "Azerbaijani",
+    "definition": "An editorial lead around imaginative or dreamlike mental imagery; verify exact senses in use.",
+    "tone": "imaginative",
+    "evidence_status": "unverified",
+    "source_type": "dictionary",
+    "source": {
+      "title": "Azerbaijani dictionary lead — verification pending"
+    },
+    "tags": [
+      "imagination",
+      "dream",
+      "image",
+      "thought",
+      "mind",
+      "vision"
+    ],
+    "captures": "Could provide a component for exploring imagined worlds.",
+    "misses": "Does not establish an etymology or exact equivalence with the Persian lead.",
+    "caveat": "Editorial language lead: direct Wiktionary retrieval was blocked by the cloud network proxy, so this sense has not been verified against an accessible dictionary. No source quotation or etymology is claimed."
+  },
+  {
+    "id": "game-minecraft-sculk",
+    "term": "sculk",
+    "language": "Minecraft fictional concept",
+    "definition": "An editorial inspiration: a dark, spreading game-world material associated with sensing activity.",
+    "tone": "eerie, ecological",
+    "evidence_status": "unverified",
+    "source_type": "game",
+    "source": {
+      "title": "Minecraft Wiki — unretrieved source lead",
+      "url": "https://minecraft.wiki/w/Sculk"
+    },
+    "tags": [
+      "Minecraft",
+      "game",
+      "ecology",
+      "spread",
+      "sensing",
+      "dark",
+      "material",
+      "sound",
+      "growth"
+    ],
+    "captures": "Suggests a vocabulary for material that listens and spreads.",
+    "misses": "No real-language etymology or verified mechanics are established here.",
+    "caveat": "Editorial game-world inspiration. The proposed source request was blocked by the cloud network proxy; the concept and description have not been verified from a retrieved game source. This is not a dictionary definition or a historical word."
+  },
+  {
+    "id": "game-quantum-slime",
+    "term": "Quantum Slime",
+    "language": "Slime Rancher fictional concept",
+    "definition": "An editorial inspiration: a slime whose apparent position and possible selves invite unstable-identity metaphors.",
+    "tone": "playful, uncertain",
+    "evidence_status": "unverified",
+    "source_type": "game",
+    "source": {
+      "title": "Slime Rancher Wiki — unretrieved source lead",
+      "url": "https://slimerancher.fandom.com/wiki/Quantum_Slime"
+    },
+    "tags": [
+      "Slime Rancher",
+      "game",
+      "slime",
+      "quantum",
+      "possibility",
+      "identity",
+      "uncertainty",
+      "multiplicity",
+      "mutation"
+    ],
+    "captures": "Offers an image of a body and its possible locations diverging.",
+    "misses": "The word quantum is a fictional mechanic, not a scientific claim here.",
+    "caveat": "Editorial game-world inspiration. The proposed source request was blocked by the cloud network proxy; the concept and description have not been verified from a retrieved game source. This is not a dictionary definition or a historical word."
+  },
+  {
+    "id": "game-ghost-leviathan",
+    "term": "Ghost Leviathan",
+    "language": "Subnautica fictional concept",
+    "definition": "An editorial inspiration: an enormous spectral-looking sea creature that combines transparency and threat.",
+    "tone": "sublime, eerie",
+    "evidence_status": "unverified",
+    "source_type": "game",
+    "source": {
+      "title": "Subnautica Wiki — unretrieved source lead",
+      "url": "https://subnautica.fandom.com/wiki/Ghost_Leviathan"
+    },
+    "tags": [
+      "Subnautica",
+      "game",
+      "sea",
+      "ghost",
+      "leviathan",
+      "translucent",
+      "threat",
+      "creature",
+      "abyss"
+    ],
+    "captures": "Joins a ghostly appearance with overwhelming physical scale.",
+    "misses": "Does not imply a literal ghost or a verified description of all game variants.",
+    "caveat": "Editorial game-world inspiration. The proposed source request was blocked by the cloud network proxy; the concept and description have not been verified from a retrieved game source. This is not a dictionary definition or a historical word."
+  },
+  {
+    "id": "game-trebhum",
+    "term": "Trebhum",
+    "language": "The Eternal Cylinder fictional concept",
+    "definition": "An editorial inspiration: a mutable creature whose bodily changes can suggest adaptation and identity in flux.",
+    "tone": "surreal, adaptive",
+    "evidence_status": "unverified",
+    "source_type": "game",
+    "source": {
+      "title": "The Eternal Cylinder official site — unretrieved source lead",
+      "url": "https://www.eternalcylinder.com/"
+    },
+    "tags": [
+      "The Eternal Cylinder",
+      "game",
+      "mutation",
+      "adaptation",
+      "body",
+      "survival",
+      "identity",
+      "transformation"
+    ],
+    "captures": "Provides a creature metaphor for identity assembled through changing capacities.",
+    "misses": "Exact game mechanics and the meaning of the invented name remain unverified.",
+    "caveat": "Editorial game-world inspiration. The proposed source request was blocked by the cloud network proxy; the concept and description have not been verified from a retrieved game source. This is not a dictionary definition or a historical word."
+  },
+  {
+    "id": "game-bully-beast",
+    "term": "Bully Beast",
+    "language": "Clay Jam fictional concept",
+    "definition": "An editorial inspiration: a clay-world antagonist name that turns social aggression into a creature category.",
+    "tone": "comic, grotesque",
+    "evidence_status": "unverified",
+    "source_type": "game",
+    "source": {
+      "title": "Clay Jam source lead — verification pending"
+    },
+    "tags": [
+      "Clay Jam",
+      "game",
+      "clay",
+      "bully",
+      "beast",
+      "aggression",
+      "body",
+      "grotesque",
+      "power"
+    ],
+    "captures": "Suggests turning a vice into a physically exaggerated species.",
+    "misses": "The canonical capitalization, categories, and mechanics need a game source check.",
+    "caveat": "Editorial game-world inspiration. The proposed source request was blocked by the cloud network proxy; the concept and description have not been verified from a retrieved game source. This is not a dictionary definition or a historical word."
+  }
+]
